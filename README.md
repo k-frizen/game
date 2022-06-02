@@ -52,3 +52,10 @@ https://user-images.githubusercontent.com/80598880/171666878-e35cd017-2fdf-40b6-
 и в этом случае выводит статистику команды.
 
 ![statistic](https://user-images.githubusercontent.com/80598880/171667315-d1b2dd31-8663-40bd-aed7-aa967fc33ffe.jpg)
+
+
+
+
+https://user-images.githubusercontent.com/80598880/171673607-a4671741-8023-43bf-9fde-05d6dd0f3f59.mp4
+
+Полная запись игры
